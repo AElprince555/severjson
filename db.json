@@ -1,4 +1,4 @@
-{ events: [
+[
 {
 id : 5928101,
 category: 'animal welfare',
@@ -32,4 +32,4 @@ time: '1:00',
 petsAllowed: true,
 organizer: 'kat laydee'
 },
-]}
+]
