@@ -1,0 +1,35 @@
+{ events: [
+{
+id : 5928101,
+category: 'animal welfare',
+title: 'cat adoption day',
+description: 'find tour new feline friend at this event',
+location: 'meow town',
+date: 'January 25, 2022',
+time: '12:00',
+petsAllowed: true,
+organizer: 'kat laydee'
+},
+{
+id : 5928102,
+category: 'Ahmed Elprince',
+title: 'elprince day',
+description: 'hello elprince',
+location: 'giza',
+date: 'November 06, 1991',
+time: '1:00',
+petsAllowed: true,
+organizer: 'kat laydee'
+},
+{
+id : 132154,
+category: 'Sanchez',
+title: 'sanchez day',
+description: 'hello sanchez',
+location: 'giza',
+date: 'November 06, 1991',
+time: '1:00',
+petsAllowed: true,
+organizer: 'kat laydee'
+},
+]}
